@@ -1,6 +1,8 @@
 
 # C Sine Wave Generator
 
+![C Sine Wave Generator Workflow](assets/sine-wave-workflow.png)
+
 A C programming project that generates a 440 Hz sine wave and writes the digital audio samples to a raw binary file.
 
 ## Project Specifications
