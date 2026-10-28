@@ -1,0 +1,6 @@
+# Compiled executables from c-basics
+/c-basics/a.out
+/c-basics/main
+
+# Object files
+/c-basics/*.o
